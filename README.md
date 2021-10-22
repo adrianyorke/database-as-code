@@ -1,1 +1,1 @@
-# Database-as-Code
+# database-as-code
